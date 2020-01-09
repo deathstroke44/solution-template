@@ -18,7 +18,7 @@ public class Solution implements Runnable {
         String string = readLine();
 
         Integer integer = readLineAsInteger();
-
+        //Checking if push working
         // sample output process
         printLine(string);
         printLine(integer);
