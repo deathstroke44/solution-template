@@ -250,6 +250,7 @@ public class Solution implements Runnable {
         {
             HashMap<String,table> hm=new HashMap<String,table>();
             Integer num_of_table=readLineAsInteger();
+            System.out.println("Test: "+i);
             for(int j=0;j<num_of_table;j++)
             {
                 String tablename = readLine();
